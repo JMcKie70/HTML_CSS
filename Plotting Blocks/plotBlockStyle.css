@@ -1,0 +1,42 @@
+#wrapper{
+ height: 750px;
+ width: 1000px;
+ background-color: silver;
+}
+#header{
+ height: 150px;
+ width: 950px;
+ background-color: green;
+}
+#container{
+ height: 500px;
+ width: 950px;
+}
+#aside{
+  height: 350px;
+  width: 250px;
+  display: inline-block;
+  background-color: blue;
+}
+#holder{
+  height: 450px;
+  width: 650px;
+  vertical-align: top;
+  display: inline-block;
+  background-color: red;
+}
+#main{
+ height: 250px;
+ width: 600px;
+}
+.content{
+ height: 180px;
+ width: 180px;
+ display:inline-block;
+ background-color: yellow;
+}
+#advertisement{
+ height: 150px;
+ width: 560px;
+ background-color: purple;
+}

@@ -1,0 +1,77 @@
+#wrapper{
+  height: 582px;
+  width: 970px;
+  background-color: rgb(21, 38, 75);
+  padding: 1px;
+  padding-bottom: 7px;
+}
+#header{
+  height: 45px;
+  width: 920px;
+  margin: 10px;
+  background-color: rgb(193, 34, 41);
+  color: white;
+  border-radius: 10px;
+  padding-top: 1px;
+  padding-left: 20px;
+  padding-bottom: 23px;
+}
+#main{
+  height: 430px;
+  width: 950px;
+}
+#menu{
+  height: 200px;
+  width: 170px;
+  background-color: rgb(43, 106, 122);
+  display: inline-block;
+  margin: 10px;
+  margin-left: 10px;
+  border-radius: 15px;
+  font-size: 10px;
+}
+#nav-top{
+  margin-left: 24px;
+  margin-top: 10px;
+}
+#container{
+  height: 412px;
+  width: 751px;
+  background-color: rgb(13, 18, 25);
+  color: white;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 10px;
+  margin-left: 5px;
+  border-radius: 15px;
+}
+.purple-font{
+  color: rgb(110, 116, 251);
+}
+#content-top{
+  height: 100px;
+  width: 700px;
+  font-size: 13px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+#content-bottom{
+  height: 300px;
+  width: 700px;
+  font-size: 12px;
+}
+#footer{
+  height: 50px;
+  width: 925px;
+  margin: 10px;
+  color: white;
+  background-color: rgb(74, 81, 95);
+  vertical-align: top;
+  border-radius: 15px;
+  padding-left: 20px;
+  padding-top: 2px;
+  font-size: 14px;
+}
+a{
+  color: rgb(92, 214, 224);
+}

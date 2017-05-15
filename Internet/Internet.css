@@ -1,0 +1,492 @@
+*{
+  border: red 1px dotted;
+  font-family:sans-serif;
+}
+#wrapper{
+  height:800px;
+  width:1000px;
+  vertical-align: top;
+  display:inline-block;
+  margin:0px;
+  padding:0px;
+}
+  #header{
+    height:120px;
+    width:1000px;
+    vertical-align: top;
+    display:inline-block;
+    margin:0px;
+    padding-bottom:0px;
+    padding-top:0px;
+}
+    #header img{
+      height:90px;
+      width:90px;
+      vertical-align: top;
+      display:inline-block;
+      margin:0px;
+      padding:0px;
+}
+    #header h1{
+      height:50px;
+      width:890px;
+      vertical-align: top;
+      display:inline-block;
+      margin:0px;
+      padding-top:30px;
+}
+    #header h1 span{
+        color:rgb(40,84,136);
+    }
+    #header p{
+      height:30px;
+      width:1000px;
+      vertical-align: top;
+      display:inline-block;
+      margin-bottom: 0px;
+      margin-top:0px;
+      padding-left:15px;
+      padding-top:10px;
+      background-color:rgb(59,100,145);
+      color:white;
+}
+  #content{
+    height:600px;
+    width:1000px;
+    vertical-align: top;
+    display:block;
+    margin:0px;
+    padding:0px;
+    border:;
+    position:
+    background-color:;
+    color:;
+}
+    #aside{
+      height:400px;
+      width:200px;
+      vertical-align: top;
+      display:inline-block;
+      margin:0px;
+      padding-top:50px;
+      border:;
+      position:
+      background-color:;
+      color:;
+}
+      #text-button{
+        height:300px;
+        width:200px;
+        vertical-align: top;
+        display:inline-block;
+        margin:0px;
+        padding:0px;
+        border:;
+        position:
+        background-color:;
+        color:;
+}
+        #text-button h5{
+          height:25px;
+          width:200px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
+        #text-button h6{
+          height:25px;
+          width:200px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
+        #text-button button{
+          height:25px;
+          width:130px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:blue;
+          color:white;
+}
+        #orange-button button{
+          height:25px;
+          width:130px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:orange;
+          color:white;
+}
+      #ad{
+        height:260px;
+        width:170px;
+        vertical-align: top;
+        display:inline-block;
+        margin:0px;
+        padding-bottom:15px;
+        border:;
+        position:
+        background-color:;
+        color:;
+        background-image: url("ad_background.png");
+}
+        #ad h3{
+          height:100px;
+          width:150px;
+          vertical-align: top;
+          display:inline-block;
+          margin-left:9px;
+          padding:0px;
+          text-align:center;
+          border:;
+          position:
+          background-color:;
+          color:white;
+}
+        #ad img{
+          height:80px;
+          width:60px;
+          vertical-align: top;
+          display:inline-block;
+          margin-left:45px;
+          margin-bottom:px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
+        #ad button{
+          height:25px;
+          width:140px;
+          vertical-align: top;
+          display:inline-block;
+          margin-left:13px;
+          margin-top:20px;
+          padding:0px;
+          border:;
+          position:
+          background-color:blue;
+          color:;
+}
+    #main{
+      height:600px;
+      width:740px;
+      vertical-align: top;
+      display:inline-block;
+      margin:0px;
+      padding:0px;
+      border:;
+      position:
+      background-color:purple;
+      color:;
+}
+      #upper{
+        height:150px;
+        width:730px;
+        vertical-align: top;
+        display:inline-block;
+        margin:0px;
+        padding:0px;
+        border:;
+        position:relative:
+        background-color:red;
+        color:;
+}
+        #home-icon{
+          height:16px;
+          width:16px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:relative:
+          background-color:;
+          color:;
+        }
+        #home-icon img{
+          height:16px;
+          width:16px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:relative:
+          background-color:;
+          color:;
+}
+        #upper h4{
+          height:20px;
+          width:35px;
+          vertical-align: top;
+          display:inline-block;
+          margin-bottom:px;
+          margin-left:5px;
+          padding-top:px;
+          border:;
+          position:relative:
+          background-color:yellow;
+          color:rgb(40,84,136);
+}
+        #phone-icon{
+          height:30px;
+          width:30px;
+          vertical-align: top;
+          display:inline-block;
+          margin-left:310px;
+          margin-top:17px;
+          padding:0px;
+          border:;
+          position:relative:
+          background-color:;
+          color:;
+        }
+        #phone-icon img{
+          height:30px;
+          width:30px;
+          vertical-align: top;
+          display:inline-block;
+          margin-left:px;
+          padding:0px;
+          border:;
+          position:relative:
+          background-color:;
+          color:;
+}
+        #numhours{
+          height:65px;
+          width:140px;
+          vertical-align: top;
+          display:inline-block;
+          margin-left:px;
+          text-align:right;
+          padding:0px;
+          border:;
+          position:relative:
+          background-color:gray;
+          color:;
+}
+          #numhours p{
+            height:15px;
+            width:140px;
+            vertical-align: top;
+            display:inline-block;
+            margin:0px;
+            padding:0px;
+            font-size:10px;
+            border:;
+            position:relative:
+            background-color:;
+            color:;
+}
+          #numhours h2{
+            height:30px;
+            width:140px;
+            vertical-align: top;
+            display:inline-block;
+            margin:0px;
+            padding:0px;
+            border:;
+            position:relative:
+            background-color:;
+            color:rgb(71,177,209);
+}
+      #middle{
+        height:450px;
+        width:700px;
+        vertical-align: top;
+        display:inline-block;
+        margin:0px;
+        padding:0px;
+        border:;
+        position:
+        background-color:green;
+        color:;
+}
+        #middle-up{
+          height:200px;
+          width:700px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:orange;
+          color:;
+}
+        #middle-up h3{
+          height:px;
+          width:px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
+        #middle-up p{
+          height:px;
+          width:px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
+        #middle-up ul{
+          height:px;
+          width:px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
+        #middle-up ul li{
+          height:px;
+          width:px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
+      #middle-down{
+        height:250px;
+        width:700px;
+        vertical-align: top;
+        display:inline-block;
+        margin:0px;
+        padding:0px;
+        border:;
+        position:
+        background-color:red;
+        color:;
+}
+        #middle-down img{
+          height:100px;
+          width:200px;
+          vertical-align: top;
+          display:inline-block;
+          margin-left:250px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
+        #middle-down h3{
+          height:30px;
+          width:400px;
+          vertical-align: top;
+          display:block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
+        #middle-down ol{
+          height:100px;
+          width:650px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
+        #middle-down ol li{
+          height:px;
+          width:px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
+      #lower{
+        height:100px;
+        width:700px;
+        vertical-align: top;
+        display:inline-block;
+        margin:0px;
+        padding:0px;
+        border:;
+        position:
+        background-color:blue;
+        color:;
+}
+        #lower img{
+          height:100px;
+          width:100px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
+        #lower h3{
+          height:30px;
+          width:400px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
+        #lower p{
+          height:20px;
+          width:400px;
+          vertical-align: top;
+          display:inline-block;
+          margin:0px;
+          padding:0px;
+          border:;
+          position:
+          background-color:;
+          color:;
+}
